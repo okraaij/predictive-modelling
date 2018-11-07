@@ -19,14 +19,16 @@ An implementation of several time-series forecasting methods (Exponential Smooth
 A total of four datasets related to DC’s stock price were taken from Yahoo Finance8; (1) past 1.5 years, weekly, (2) past 3 years, weekly (3) past 3 years, monthly and (4) past 5 years, daily.
 
 ### Potential price driving factors
-- UK Consumer Confidence Index (CCI) sourced from the OECD
+- UK Consumer Confidence Index (CCI) (source: [OECD](https://data.oecd.org/leadind/consumer-confidence-index-cci.htm))
+    - The CCI: “is based on households' plans for major purchases and their economic situation, both currently and their expectations for the immediate future. Opinions compared to a “normal” state are collected and the difference between positive and negative answers provides a qualitative index on economic conditions.” (OECD, 2017).
+    - 5-year monthly data was obtained ranging from October 2012 to October 2017.
 
-To explore driving factors for DC’s stock price, the UK Consumer Confidence Index (CCI) will be analysed. The data was obtained from the OECD. The CCI:
-“is based on households' plans for major purchases and their economic situation, both currently and their expectations for the immediate future. Opinions compared to a “normal” state are collected and the difference between positive and negative answers provides a qualitative index on economic conditions.” (OECD, 2017).
-5-year monthly data was obtained ranging from October 2012 to October 2017,
-
-- UK Consumer Price Inflation (CPI)
-The UK Consumer Price Inflation (CPI) index is another potential driving factor for DC’s stock price. 5-year monthly data was obtained from the UK Office for National Statistics (ONS). The CPI is “the rate at which the prices of goods and services bought by households rise and fall; it is estimated using consumer price indices” (ONS, 2017).
+- UK Consumer Price Inflation (CPI) (source [Office for National Statisstics](https://www.ons.gov.uk/economy/inflationandpriceindices/methodologies/consumerpriceinflationincludesall3indicescpihcpiandrpiqmi)
+    - The CPI is “the rate at which the prices of goods and services bought by households rise and fall; it is estimated using consumer price indices” (ONS, 2017).
+    - 5-year monthly data was obtained ranging from October 2012 to October 2017
 
 - Google Trends
+    - Data is obtained from Google Trends to find the popularity of the terms ‘dixons carphone’ (dataset ‘3yearweekGT’) and ‘dixons carphone share’ (dataset ‘3yearweekGTshare’) in the UK over the past 3 years. Data was converted to monthly data
+
+
 
