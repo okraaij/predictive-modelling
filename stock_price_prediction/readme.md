@@ -19,8 +19,12 @@ An implementation of several time-series forecasting methods (Exponential Smooth
 
 ## Data
 
-### Stock price data
-A total of four datasets related to DC’s stock price were taken from Yahoo Finance8; (1) past 1.5 years, weekly, (2) past 3 years, weekly (3) past 3 years, monthly and (4) past 5 years, daily.
+### Stock price data sourced from [Yahoo Finance](https://finance.yahoo.com/quote/DC.L)
+A total of four datasets related to DC’s stock price were taken from Yahoo Finance from October 2017:
+1. past 1.5 years, weekly
+2. past 3 years, weekly
+3. past 3 years, monthly 
+4. past 5 years, daily.
 
 ### Potential price driving factors
 - UK Consumer Confidence Index (CCI) (source: [OECD](https://data.oecd.org/leadind/consumer-confidence-index-cci.htm))
