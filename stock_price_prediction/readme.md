@@ -35,7 +35,7 @@ A total of four datasets related to DC’s stock price were taken from Yahoo Fin
     - The CPI is “the rate at which the prices of goods and services bought by households rise and fall; it is estimated using consumer price indices” (ONS, 2017).
     - 5-year monthly data was obtained ranging from October 2012 to October 2017
 
-- Google Trends
+- [Google Trends](https://trends.google.com/trends/) 
     - Data is obtained from Google Trends to find the popularity of the terms ‘dixons carphone’ (dataset ‘3yearweekGT’) and ‘dixons carphone share’ (dataset ‘3yearweekGTshare’) in the UK over the past 3 years. Data was converted to monthly data
 
 
