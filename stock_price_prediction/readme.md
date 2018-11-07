@@ -31,7 +31,7 @@ A total of four datasets related to DC’s stock price were taken from Yahoo Fin
     - The CCI: “is based on households' plans for major purchases and their economic situation, both currently and their expectations for the immediate future. Opinions compared to a “normal” state are collected and the difference between positive and negative answers provides a qualitative index on economic conditions.” (OECD, 2017).
     - 5-year monthly data was obtained ranging from October 2012 to October 2017.
 
-- UK Consumer Price Inflation (CPI) (source [Office for National Statisstics](https://www.ons.gov.uk/economy/inflationandpriceindices/methodologies/consumerpriceinflationincludesall3indicescpihcpiandrpiqmi)
+- UK Consumer Price Inflation (CPI) (source [Office for National Statistics](https://www.ons.gov.uk/economy/inflationandpriceindices/methodologies/consumerpriceinflationincludesall3indicescpihcpiandrpiqmi))
     - The CPI is “the rate at which the prices of goods and services bought by households rise and fall; it is estimated using consumer price indices” (ONS, 2017).
     - 5-year monthly data was obtained ranging from October 2012 to October 2017
 
