@@ -1,4 +1,4 @@
-### Stock price prediction
+# Stock price prediction
 An implementation of several time-series forecasting methods (Exponential Smoothing, ARIMA and (G)ARCH models) in the context of stock price prediction
 
 ## Overview
