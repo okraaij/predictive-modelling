@@ -8,7 +8,11 @@ An implementation of several time-series forecasting methods (Exponential Smooth
 - The R implementation is provided for the following predictive models:
   - Several Exponential Smoothing models with various parameters and plotted predictions (Holt's Linear Trend, Exponential Trend and Damped Trend)
   - Several Autoregressive Integrated Moving Average (ARIMA) models with various orders and plotted predictions
-  - Several (Generalized) Autoregressive Conditional Heteroskedasticity (G)(ARCH) models
+  - Several (Generalized) Autoregressive Conditional Heteroskedasticity (G)(ARCH) models with plotted predictions
+  - Bivariate Granger-causality tests for:
+    - The UK Consumer Confidence Index (CCI)
+    - The UK Consumer Price Inflation (CPI)
+    - Google Trends ('dixons carphone' and 'dixons carphone share')
 - The implementations cover all the typical procedures required in time-series forecasting; unit-root testing (using ADF and KPSS tests), differencing (where applicable), checking residuals for autocorrelation using the ACF and PACF plots etc.
 - Pre-processing techniques are also applied where neccesary
 - The models can be evaluated by using several metrics, this project has used the AIC, AICc and BIC values
