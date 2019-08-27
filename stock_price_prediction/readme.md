@@ -3,7 +3,7 @@ An implementation of several time-series forecasting methods (Exponential Smooth
 
 ## Overview
 
-- This repository contains several of the implementations of stock price prediction models a course that was part of the MSc Business Analytics at the University of Edinburgh. 
+- This repository contains several of the implementations of stock price prediction models
 - This project focused on forecasting the stock price of Dixons Carphone (FTSE: DC) for both the short (< 6 months) and long (1 > year) and exploring price driving factors for DC's stock price. 
 - The [R implementation](/stock_price_prediction/stock_price_prediction.R) is provided for the following predictive models:
   - Several Exponential Smoothing models with various parameters and plotted predictions (Holt's Linear Trend, Exponential Trend and Damped Trend)
