@@ -1,17 +1,3 @@
-#######################################################################
-#   
-#   University of Edinburgh Business School
-#   MSc Business Analytics
-#   Predictive Analytics and Modelling Data
-#
-#   Forecasting assignment
-#
-#   Please read attached 'Report' file for the analysis and more information
-#
-#   Copyright© of this project is with the authors
-#
-#######################################################################
-
 # Load libraries
 
 library(zoo);
